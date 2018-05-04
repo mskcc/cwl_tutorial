@@ -25,3 +25,7 @@ def parse_arguments():
 def main():
     args = parse_arguments()
     do_fingerprint(args)
+
+    
+if __name__ == '__main__':
+    main()
