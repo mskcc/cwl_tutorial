@@ -1,0 +1,2 @@
+first_input_file: {class: File, path: ~/whatever/config.file}
+another_input: {class: File, path: ~/asdf.asdf}
