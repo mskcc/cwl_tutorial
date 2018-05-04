@@ -14,7 +14,7 @@ Or use `conda new_whatever...` ?
 Now when you do `echo $PATH` you should see `~/my_virtual_env/bin` listed as an entry
 
 ### 3. install toil
-`pip install Toil'[cwl]'==3.15.0`
+`pip install toil'[cwl]'==3.15.0`
 
 ### 4. Install the python tool you made (optional, only needed if trying to test with setup.py)
 `python setup.py install && python setup.py clean`
