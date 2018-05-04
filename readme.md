@@ -29,7 +29,7 @@ Because the tool's `baseCommand` param has the python script listed inside,
 the runner will find it and run it.
 
 ### With `cwltool`:
-`cwltool fingerprint.cwl inputs.yaml --outDir /place_for_outputs --tmpDir /place/for/temp` # (need to confirm the extra params)
+`cwltool fingerprint.cwl inputs.yaml --outdir /place_for_outputs` # (need to confirm the extra params)
 There are params for this step^
 
 ^This will normally be called from within a workflow
