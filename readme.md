@@ -1,6 +1,6 @@
 This is a small example of how to wrap python scripts with CWL to be called from cwltool or toil-cwl-runner
 
-Fill out this example skeleton to add a tool to the workflow. 
+Fill out this example skeleton to add a tool to the Innovation_Pipeline 
 
 
 ### Getting cwltool installed
