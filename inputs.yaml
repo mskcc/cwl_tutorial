@@ -1,2 +1,9 @@
+# This is an example input file
+# It is not necessary to use this file,
+# if all inputs to the tool come from a previous step in the workflow
+#
+# However for this simple example, the cwl tool will take its inputs from here
+
+
 first_input_file: {class: File, path: ~/whatever/config.file}
 another_input: {class: File, path: ~/asdf.asdf}
